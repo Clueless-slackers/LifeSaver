@@ -1,7 +1,7 @@
 # LifeSaver
 
 ## Elevator Pitch: May the Safe Zone be with you
-      -Built With: CSS, Javascripts, HTML, Json
+There is a problem of high crime in NYC in the past year (76,905 crimes) and little awareness as to locations in the city that are high on crime. Our extension will allow New Yorkers to find out whether an area they may be in/going to has a high rate of crime or not, and therefore how “safe” they may be. We used data from the Borough and Precinct Crime Statistics to gather an estimated average of crime per sections per borough. We then calculated a “safe zone” based on the data, which would give the user awareness of the crime rate around them. This extension seeks to benefit the general public in NYC.
 
 ## The Team: Ifte Ahmed, Darren Zhang, Eduardo Escemilla, Claudia Figueroa
 
